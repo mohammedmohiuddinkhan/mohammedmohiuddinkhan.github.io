@@ -1,0 +1,52 @@
+.header_div{
+    background-image: url("./images/main_bg.jpg");
+    opacity: 0.9;
+    height: 450px;
+    /* background-position: center; */
+    background-size: cover;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+svg{
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.img_tag{
+    width: 40px;
+}
+
+.nav-handler{
+    margin-left: 350px ;
+}
+
+.short_info{
+    font-family: 'Dancing Script', cursive;
+}
+
+.main_btn{
+    margin-top: 60px;
+    color:green;
+}
+
+.main-content{
+    display: flex;
+}
+
+.footer{
+    margin-left: 350px ;
+
+}
+
+.middle{
+    margin-top: 30px;
+    font-size: 150%;
+
+}
+
+.last{
+    margin-right: 30px;
+}
+
+
