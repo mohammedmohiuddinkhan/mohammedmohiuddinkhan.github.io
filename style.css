@@ -18,11 +18,10 @@
 .footer{
     background-color:cornflowerblue;
     color: whitesmoke;
-    
 }
 
 html, body {
     overscroll-behavior-y: none;
     overscroll-behavior-x: none;
 }
-
+  
